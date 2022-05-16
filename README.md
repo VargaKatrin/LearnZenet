@@ -1,1 +1,1 @@
-# LearnZenet
+# Learn Zenet
