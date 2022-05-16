@@ -1,6 +1,13 @@
 # Learn Zenet
 
-> ##  ``Zenet.Package``
+> ###  ``Network``
+- [Zenet.Network](#)
+  -  [Async](docs/Network/Async.md)
+  -  [Host](docs/Network/Host.md)
+  -  [Callback](docs/Network/Callback.md)
+
+
+> ###  ``Package``
 - [Zenet.Package](#)
   -  [Compare](docs/Package/Compare.md)
   -  [Concat](docs/Package/Concat.md)
