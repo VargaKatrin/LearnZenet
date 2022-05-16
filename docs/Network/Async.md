@@ -22,7 +22,7 @@ outside the main "Thread".
 
 ##### Español 🇪🇸
 ```
-"Zenet.Async" se utiliza para ejecutar un "System.Action" en
+"Zenet->Async" se utiliza para ejecutar un "System.Action" en
 fondo, es decir, utiliza " System.Threading.ThreadPool"
 para realizar tareas pesadas o asfixia
 fuera del "hilo" principal.
