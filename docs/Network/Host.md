@@ -69,7 +69,7 @@ consultado ou consumido as seguintes propriedade: "IPAddress", "Port", "AddressF
 ## Namespace
 
 ```csharp
-using Zenet.Sample;
+using Zenet.Network;
 ```
 
 ## Sample usage
