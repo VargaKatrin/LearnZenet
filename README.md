@@ -25,7 +25,7 @@
 -  [GetPack.cs](docs/Package/GetPack.md) ❌
 -  [Package2](docs/Package/Package2.md) ❌
 -  [SetPack](docs/Package/SetPack.md) ❌
--  [Vec2](docs/Package/Vec2.md) ❌
+-  [Vec2](docs/Package/Vec2.md) ✔️
 -  [Vec3](docs/Package/Vec3.md) ❌
 
 
