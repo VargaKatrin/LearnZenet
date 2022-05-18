@@ -14,7 +14,7 @@
 ```csharp
   using Zenet.Package; 
 ```
--  [Compare](docs/Package/Compare.md) ❌
+-  [Compare](docs/Package/Compare.md) ✔️
 -  [Concat](docs/Package/Concat.md) ❌
 -  [Encode](docs/Package/Encode.md) ❌
 -  [Encoding2](docs/Package/Encoding2.md) ❌
