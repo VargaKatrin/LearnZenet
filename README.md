@@ -15,7 +15,7 @@
   using Zenet.Package; 
 ```
 -  [Compare](docs/Package/Compare.md) ✔️
--  [Concat](docs/Package/Concat.md) ❌
+-  [Concat](docs/Package/Concat.md) ✔️
 -  [Encode](docs/Package/Encode.md) ❌
 -  [Encoding2](docs/Package/Encoding2.md) ❌
 -  [Event2](docs/Package/Event2.md) ❌
